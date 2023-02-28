@@ -15,6 +15,8 @@
 <a href="https://instagram.com/ashutosh_mishra_4516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_mishra_4516" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra1999&" alt="ashutoshmishra1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshmishra1999&show_icons=true&locale=en" alt="ashutoshmishra1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra1999&" alt="ashutoshmishra1999" /></p>
+
+
